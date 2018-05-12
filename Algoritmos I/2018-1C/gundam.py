@@ -42,7 +42,7 @@ class GunplaPart():
     def __str__ (self):
         return f"Gunpla Part: {self.name} <({self.part_type})>"
 
-import random import randint,random,choice
+from random import randint,random,choice
 
 class Gun():
 
@@ -61,7 +61,7 @@ class Gun():
         gundam.receive_damage(damage)
 
 
-class BeamSaber(object):
+class MeleeWeapon(object):
 
     def __init__(self,name,damage=0):
 
