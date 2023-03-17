@@ -2,4 +2,4 @@
 ### Compilacion de notebooks para futuras referencias
 
 
-![Registros Akashicos](http://www.johannesuske.com/wp-content/uploads/biblioteca-akashica-libros-library-2-600x400.jpg "Registros Akashicos")
+![Registros Akashicos](https://www.cherylmarlene.com/wp-content/uploads/2022/09/AkashicMysticLibraryfromCherylMarlene.jpg "Registros Akashicos")
